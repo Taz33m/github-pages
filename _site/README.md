@@ -1,21 +1,21 @@
-# MarketMind: AI-Powered Stock Analysis Platform
+# MarketMind: An Overview
 
-This repository contains the source code for the MarketMind project website, a Jekyll-based site hosted on GitHub Pages. It showcases the features and technical details of the MarketMind platform.
+This repository contains the source code for the MarketMind project website, a Jekyll-based site hosted on GitHub Pages. It describes the features and technical details of the MarketMind platform.
 
-**Live Website Link**: [Your GitHub Pages URL Here]
+Website Link: https://taz33m.github.io/github-pages/
 
 ## Features
 
-- **Jekyll Theme**: Uses the modern and clean `jekyll-theme-cayman`.
-- **Two Pages**: Includes a home page and a detailed "Key Features" page.
-- **External Link**: Contains a link to an external article on AI in trading.
-- **Custom CSS**: Features a custom dark theme with enhanced styling.
+- Uses the `jekyll-theme-cayman`.
+- Includes a home page and a detailed "Key Features" page.
+- Contains a link to an external article on AI in trading.
+- Custom CSS with a custom dark theme and enhanced styling.
 
 ## CSS Features Added
 
-1.  **Dark Theme**: A sleek, modern dark background (`#1e1e1e`) with light text (`#e0e0e0`) for readability.
-2.  **Accent Color**: Uses a vibrant green (`#16a085`) for headers and links to create a professional look.
-3.  **Improved Typography**: Employs `Helvetica Neue` for a clean, sans-serif feel.
+1.  **Dark Theme**: Using (`#1e1e1e`) with light text (`#e0e0e0`).
+2.  **Accent Color**: Uses a vibrant green (`#16a085`) for headers and links.
+3.  **Typography**: Uses `Helvetica Neue` as opposed to default `Lato`.
 4.  **Styled Images**: Images are styled with rounded corners and a subtle box-shadow to make them pop.
 5.  **Code Highlighting**: `<code>` blocks are styled with a distinct background and color for better visibility.
 6.  **Consistent Layout**: The `.wrapper` class ensures a consistent maximum width and padding across the site.
